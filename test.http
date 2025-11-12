@@ -1,0 +1,9 @@
+POST http://localhost:5000/api/analyze
+Content-Type: application/json
+
+{
+  "url": "https://www.thehindu.com/news/example",
+  "domain": "thehindu.com",
+  "headline": "Example headline",
+  "snippet": "This is a test paragraph from the article."
+}
