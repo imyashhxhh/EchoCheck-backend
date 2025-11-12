@@ -9,6 +9,19 @@ This project consists of:
 
 ---
 
+## 🌐 Live Deployment
+
+| Component | Status | Link |
+|------------|---------|------|
+| 🧠 **Backend API (Render)** | ✅ Live | [https://echocheck-backend.onrender.com](https://echocheck-backend.onrender.com) |
+| 🧩 **Frontend (Chrome Extension)** | 🧭 Local Only | Load the `echo-extension` folder manually via `chrome://extensions/` |
+| 🧰 **Example API Route** | ✅ Testable | [https://echocheck-backend.onrender.com/api/domain-bias?domain=thehindu.com](https://echocheck-backend.onrender.com/api/domain-bias?domain=thehindu.com) |
+
+> 💡 **Tip:** The Chrome Extension communicates directly with the live backend API to fetch AI-driven analysis data.
+
+---
+
+
 ## 🚀 Overview
 
 EchoCheck aims to **promote media literacy** by helping readers understand how objective or biased a news article might be.  
