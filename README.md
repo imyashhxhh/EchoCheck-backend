@@ -51,5 +51,3 @@ When a user visits any news site, the extension analyzes the page and displays a
 
 ---
 
-## 🧩 Project Screenshot
-
